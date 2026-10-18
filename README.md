@@ -110,4 +110,4 @@ assets/sticker.svg|png   the sticker
 
 ## License
 
-Personal learning project. Add the license of your choice.
+Personal learning project.
