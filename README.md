@@ -1,5 +1,4 @@
-# External-RAM
-this project consisting of a PC-based program and a folder to be placed on an external hard drive. The program was designed to reduce the load on the system RAM by offloading some files from open applications onto the external hard drive.
+Last year, I worked on a project consisting of a PC-based program and a folder to be placed on an external hard drive. The program was designed to reduce the load on the system RAM by offloading some files from open applications onto the external hard drive. I worked on it with great passion—only for a friend to point out that this concept already exists on computers! Haha.
 <p align="center">
   <img src="assets/logo.gif" alt="External RAM logo" width="260">
 </p>
