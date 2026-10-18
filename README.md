@@ -86,7 +86,7 @@ core/performance_logger.py  text log + SQLite history
 config/settings.py       all tunables
 debug_processes.py       diagnostic tool
 tests/test_cache.py      unit tests
-assets/sticker.svg|png   the sticker
+assets/logo.gif|png   the logo
 ```
 
 ## What was fixed in this version
