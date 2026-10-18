@@ -1,0 +1,15 @@
+2026-10-18 14:48:34,874 - ExternalRAM - INFO - SYSTEM_START: بدء تشغيل النظام
+2026-10-18 14:48:35,056 - ExternalRAM - INFO - RAM_USAGE: استخدام الرام: 89.0%
+2026-10-18 14:48:35,205 - ExternalRAM - INFO - HIGH_RAM: ارتفاع في استخدام الرام: 89.0%
+2026-10-18 14:48:38,911 - ExternalRAM - INFO - PROCESS_CACHED: تم تخزين العملية chrome.exe (PID: 16660) - 321.1 MB
+2026-10-18 14:49:07,202 - ExternalRAM - INFO - RAM_USAGE: استخدام الرام: 86.4%
+2026-10-18 14:49:37,129 - ExternalRAM - INFO - HIGH_RAM: ارتفاع في استخدام الرام: 87.5%
+2026-10-18 14:49:43,065 - ExternalRAM - INFO - RAM_USAGE: استخدام الرام: 86.7%
+2026-10-18 14:52:23,785 - ExternalRAM - INFO - SYSTEM_START: بدء تشغيل النظام
+2026-10-18 14:52:23,910 - ExternalRAM - INFO - RAM_USAGE: استخدام الرام: 86.1%
+2026-10-18 14:52:23,964 - ExternalRAM - INFO - HIGH_RAM: ارتفاع في استخدام الرام: 86.1%
+2026-10-18 14:52:26,029 - ExternalRAM - INFO - PROCESS_CACHED: تم تخزين العملية chrome.exe (PID: 5924) - 315.2 MB
+2026-10-18 14:52:59,208 - ExternalRAM - INFO - RAM_USAGE: استخدام الرام: 86.8%
+2026-10-18 14:53:28,877 - ExternalRAM - INFO - HIGH_RAM: ارتفاع في استخدام الرام: 86.7%
+2026-10-18 14:53:34,658 - ExternalRAM - INFO - RAM_USAGE: استخدام الرام: 87.1%
+2026-10-18 14:53:43,815 - ExternalRAM - INFO - SYSTEM_STOP: إيقاف تشغيل النظام

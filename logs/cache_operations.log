@@ -1,0 +1,4 @@
+[2026-10-18 14:48:38] CACHE_CREATED - PID: 16660, Name: chrome.exe, Folder: chrome.exe_PID_16660_20261018_144838
+[2026-10-18 14:52:26] CACHE_CREATED - PID: 5924, Name: chrome.exe, Folder: chrome.exe_PID_5924_20261018_145225
+[2026-10-18 14:53:43] CACHE_CLEANED - PID: 16660, Name: chrome.exe, Folder: chrome.exe_PID_16660_20261018_144838, Reason: إيقاف النظام
+[2026-10-18 14:53:43] CACHE_CLEANED - PID: 5924, Name: chrome.exe, Folder: chrome.exe_PID_5924_20261018_145225, Reason: إيقاف النظام
